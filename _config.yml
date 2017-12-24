@@ -6,22 +6,22 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Evento
+title: Beau4
 
 #What is the name of the events or talks you would like to host? (Example Brownbags, Talks, Lighting Talks)
-event_label: Events
+event_label: Evenementen
 
 description: > # this means to ignore newlines until "baseurl:"
-  Simple Jekyll theme to host internal/external events happening in and around your area. Free free to contribute or fork the repo.
+  Beau4
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://beau4.band" # the base hostname & protocol for your site
 
 #These settings might be able to go?
-author: David Boyne
-twitter_username: boyney123
-github_username:  boyney123/evento
-company_name: Comparethemarket
+author: Joren Van Cauwenberge
+twitter_username: 
+github_username:  
+company_name: Beau4
 
 # Build settings
 markdown: kramdown

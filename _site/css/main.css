@@ -240,6 +240,9 @@ footer {
   color: #828282;
   margin-left: -15px; }
 
+.wrapper a {
+  color: #ffffff; }
+
 .footer-col {
   float: left;
   margin-bottom: 15px;
@@ -361,17 +364,11 @@ footer {
   clear: both; }
 
 .blog-cover {
-  height: 320px;
   background-size: cover;
   background-position: center center;
   z-index: 1;
-  border-bottom: 1px solid #E8E8E8; }
-  @media screen and (max-width: 800px) {
-    .blog-cover {
-      height: 250px; } }
-  @media screen and (max-width: 600px) {
-    .blog-cover {
-      height: 200px; } }
+  border-bottom: 1px solid #E8E8E8;
+  padding-bottom: calc(100%/16*9); }
 
 .blog-cover-credit {
   color: #848484;
@@ -382,7 +379,7 @@ footer {
   display: block;
   margin-top: 5px; }
 
-.event-sqaure {
+.event-square {
   color: white;
   border: 1px solid #372121;
   position: relative;
@@ -393,19 +390,19 @@ footer {
   margin: 20px 20px 0 0;
   height: 100%;
   box-sizing: border-box;
-  height: 180px;
   border-radius: 3px;
   background-color: #333;
   box-shadow: 0 0 1px rgba(0, 0, 0, 0.05);
   border: 1px solid #ddd;
-  -webkit-tap-highlight-color: transparent; }
-  .event-sqaure h2 {
+  -webkit-tap-highlight-color: transparent;
+  padding-bottom: 16.875%; }
+  .event-square h2 {
     position: absolute;
     bottom: 0px;
     left: 10px;
     font-size: 20px;
     z-index: 3; }
-    .event-sqaure h2 span {
+    .event-square h2 span {
       font-size: 14px;
       display: block; }
 
@@ -418,7 +415,7 @@ footer {
   width: 100%;
   line-height: 25px;
   word-wrap: break-word;
-  background-color: transparent;
+  background-color: rgba(0, 0, 0, 0);
   background-image: -webkit-linear-gradient(rgba(15, 20, 31, 0) 0, rgba(15, 20, 31, 0.1) 25%, rgba(15, 20, 31, 0.8) 100%);
   background-image: linear-gradient(rgba(15, 20, 31, 0) 0, rgba(15, 20, 31, 0.1) 25%, rgba(15, 20, 31, 0.8) 100%); }
 
@@ -442,15 +439,19 @@ footer {
       top: 0px; } }
 
 @media screen and (max-width: 800px) {
-  .event-sqaure {
+  .event-square {
     margin-right: 10px;
     width: -webkit-calc(50% - (30px / 2));
-    width: calc(50% - (30px / 2)); } }
+    width: calc(50% - (30px / 2));
+    padding-bottom: calc((50% - (30px / 2))*9/16);
+    padding-bottom: -webkit-calc((50% - (30px / 2))*9/16); } }
 @media screen and (max-width: 600px) {
-  .event-sqaure {
+  .event-square {
     float: none;
     width: -webkit-calc(100% - (30px / 2));
-    width: calc(100% - (30px / 2)); } }
+    width: calc(100% - (30px / 2));
+    padding-bottom: calc((100% - (30px / 2))*9/16);
+    padding-bottom: -webkit-calc((100% - (30px / 2))*9/16); } }
 .event-time-heading.fix-top {
   margin-top: -10px; }
 
