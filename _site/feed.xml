@@ -6,9 +6,38 @@
 </description>
     <link>http://0.0.0.0:8080/</link>
     <atom:link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Dec 2017 22:15:26 +0000</pubDate>
-    <lastBuildDate>Sat, 23 Dec 2017 22:15:26 +0000</lastBuildDate>
+    <pubDate>Sun, 24 Dec 2017 08:51:30 +0000</pubDate>
+    <lastBuildDate>Sun, 24 Dec 2017 08:51:30 +0000</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Bij jou thuis?</title>
+        <description>&lt;p&gt;Wij komen graag spelen op jouw feest of evenement. Stuur ons een mailtje voor meer informatie.&lt;/p&gt;
+
+&lt;p&gt;Je kan ook meedoen aan onze tombola en misschien komen we wel gratis bij jou thuis spelen! 
+&lt;a href=&quot;/huisconcert&quot;&gt;Klik hier voor meer info&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:8080/event/huisconcert.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/event/huisconcert.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Opnames!!!</title>
+        <description>&lt;h1 id=&quot;beau4-duikt-de-studio-in&quot;&gt;Beau4 duikt de studio in!&lt;/h1&gt;
+
+&lt;p&gt;We stonden al eens in de studio tijdens de opnames van ons eerste nummer voor “Lokale helden”. Deze keer willen we twee eigen gescheven nummers opnemen.&lt;/p&gt;
+
+&lt;p&gt;Je hoort nog van ons.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:8080/event/opnames.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/event/opnames.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Sinterklaasmarkt</title>

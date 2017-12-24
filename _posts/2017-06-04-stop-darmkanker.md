@@ -2,9 +2,7 @@
 layout: post
 title:  "Stop Darmkanker"
 cover: "/media/StopDarmkanker.jpg"
-date:   2017-06-04
-start_time: "18:00"
-end_time: "20:00"
+datum:   4/6/2017
 ---
 
 # Beau4 treed op tegen Darmkanker

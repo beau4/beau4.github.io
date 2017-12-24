@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Sinterklaasmarkt"
-cover: "/media/20170910-feestburgemeester.jpg"
-date:   2017-12-03
+cover: "/media/20171203-sinterklaasmarkt.jpg"
+datum:   3/12/2017
 
 
 

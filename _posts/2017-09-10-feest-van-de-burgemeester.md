@@ -2,7 +2,7 @@
 layout: post
 title:  "Feest Burgemeester"
 cover: "/media/20170910-feestburgemeester.jpg"
-date:   2017-09-10
+datum:   10/9/2017
 
 
 ---
