@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://0.0.0.0:8080/event/lokale-helden-2017.html</loc>
+<lastmod>2017-04-28T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:8080/event/stop-darmkanker.html</loc>
+<lastmod>2017-06-04T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:8080/event/feest-van-de-burgemeester.html</loc>
+<lastmod>2017-09-10T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:8080/event/sinterklaasmarkt.html</loc>
+<lastmod>2017-12-03T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:8080/event/opnames.html</loc>
+<lastmod>2018-01-02T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:8080/event/huisconcert.html</loc>
+<lastmod>2018-03-03T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:8080/overons/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:8080/huisconcert/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:8080/</loc>
+</url>
+</urlset>
