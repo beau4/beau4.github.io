@@ -21,7 +21,6 @@ We spelen pop en alternatieve rock, voornamelijk covers maar zeker ook onze eige
 Hallo! Ik ben Senne Parewijck, ik ben altijd gepassioneerd geweest door muziek, maar ben pas begonnen met zingen op mijn 12de.
 Ik ben geïnspireerd geraakt door artiesten als Coldplay, Bastille en Clouseau.
 Op 13-jarige leeftijd heb ik een talentenwedstrijd gewonnen op school en een jaar later, heb ik meegedaan aan The Voice Kids waarbij ik tot de battles ben geraakt.
-Naast Beau4, zit ik nog in een ander rockbandje genaamd Beeswax.
 
 # Meer over Joren
 
