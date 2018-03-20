@@ -17,7 +17,7 @@ Het tweede nummer is ...  351 !!
 
 Proficiat aan de beide winnaars!
 
-Klik [Hier](https://www.youtube.com/watch?v=H7SOpYkb8CI "Video-tomola-trekking") Om de trekking van de tombola te belijken.
+Klik [Hier](https://www.youtube.com/watch?v=H7SOpYkb8CI "Video-tomola-trekking") Om de trekking van de tombola te bekijken.
 
 Bedankt om ons zo massaal te steunen!
 
