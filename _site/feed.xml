@@ -6,8 +6,8 @@
 </description>
     <link>http://0.0.0.0:8080/</link>
     <atom:link href="http://0.0.0.0:8080/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Apr 2018 19:36:25 +0000</pubDate>
-    <lastBuildDate>Wed, 25 Apr 2018 19:36:25 +0000</lastBuildDate>
+    <pubDate>Sun, 29 Apr 2018 10:21:40 +0000</pubDate>
+    <lastBuildDate>Sun, 29 Apr 2018 10:21:40 +0000</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -40,6 +40,24 @@ Meer info over dit evenenement vind je op &lt;a href=&quot;https://www.egmonttas
         <pubDate>Sun, 03 Jun 2018 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:8080/event/egmont-tasting.html</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/event/egmont-tasting.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Wijnfeesten 3.0</title>
+        <description>&lt;h1 id=&quot;wijnfeesten-30&quot;&gt;Wijnfeesten 3.0&lt;/h1&gt;
+
+&lt;p&gt;‘T GenooTschap ‘T Hovaardig Boerke laat de wijnfeesten herleven op een unieke locatie (tuin Kasteeldreef 30, Lede).
+Op zaterdag 2 juni vanaf 20:00 kan je ons daar aan het werk zien.&lt;/p&gt;
+
+&lt;p&gt;Voor ons is dat heel speciaal aangezien Lede onze gemeenschappelijke thuisbasis is (we gaan alledrie naar School &lt;a href=&quot;https://www.smclede.be/&quot;&gt;SMC Lede&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/867287176797266/&quot;&gt;Facebook evenement wijnfeesten&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+        <link>http://0.0.0.0:8080/event/wijnfeesten.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:8080/event/wijnfeesten.html</guid>
         
         
       </item>
@@ -159,25 +177,6 @@ We hebben hier de eerste keer onze tweede eigen geschreven song “Taking foreve
         <pubDate>Sun, 04 Jun 2017 00:00:00 +0000</pubDate>
         <link>http://0.0.0.0:8080/event/stop-darmkanker.html</link>
         <guid isPermaLink="true">http://0.0.0.0:8080/event/stop-darmkanker.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Lokale helden 2017</title>
-        <description>&lt;h1 id=&quot;cd-lokale-helden&quot;&gt;CD lokale helden&lt;/h1&gt;
-
-&lt;p&gt;Toen de gemeente Wichelen het project “Lokale helden” lanceerde, waren we met Beau4 heel enthousiast om hieraan mee te werken.
-Dit project is een samenwerking van allemaal lokale muzikanten.
-Met Beau4 gingen we de uitdaging aan om een eerste eigen nummer te schrijven, dat we later mochten opnemen in de studio van &lt;a href=&quot;http://muwesome.be/&quot;&gt;Muwesome&lt;/a&gt;.
-Ons nummer “Come on Meet me”, staat samen met alle andere werken op de cd van “Lokale helden 2017”.&lt;/p&gt;
-
-&lt;p&gt;Dankzij dit evenement konden we ons allereerste optreden geven, namelijk op “Kom op tegen darmkanker” te Serskamp. 
-Dit optreden smaakten naar meer, en sindsdien hebben we al enkele optredens gegeven.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
-        <link>http://0.0.0.0:8080/event/lokale-helden-2017.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:8080/event/lokale-helden-2017.html</guid>
         
         
       </item>
