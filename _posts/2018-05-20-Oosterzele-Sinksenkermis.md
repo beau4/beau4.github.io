@@ -7,7 +7,7 @@ datum:   20/5/2018
 
 # 't is kermis in Oosterzele, en wij zijn er bij!
 
-Kermis in Oosterzele, dat is ambiance verzekerd. Wij speelden er op zondag 20 mei om 17:00 u.
+Kermis, dat is ambiance verzekerd. Wij speelden er op zondag 20 mei om 17:00 u.
 Het was er fantastisch om te spelen en gelukkig was de zon volop van de partij.
 
 Hier zijn enkele sfeerbeelden.
