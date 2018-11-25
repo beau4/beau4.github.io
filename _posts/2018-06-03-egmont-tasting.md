@@ -2,6 +2,7 @@
 layout: post
 title:  "Egmont Tasting 2018"
 cover: "/media/egmonttasting.jpg"
+thumbs: "/thumbs/egmonttasting.jpg"
 datum:   3/6/2018
 ---
 

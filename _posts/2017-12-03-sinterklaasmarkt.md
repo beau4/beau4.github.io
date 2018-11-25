@@ -2,6 +2,7 @@
 layout: post
 title:  "Sinterklaasmarkt"
 cover: "/media/20171203-sinterklaasmarkt.jpg"
+thumbs: "/thumbs/20171203-sinterklaasmarkt.jpg"
 datum:   3/12/2017
 
 

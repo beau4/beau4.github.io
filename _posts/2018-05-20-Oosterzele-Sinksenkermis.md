@@ -2,6 +2,7 @@
 layout: post
 title:  "Oosterzele Sinksenkermis"
 cover: "/media/oosterzelesinksenkermis.jpg"
+thumbs: "/thumbs/oosterzelesinksenkermis.jpg"
 datum:   20/5/2018
 ---
 

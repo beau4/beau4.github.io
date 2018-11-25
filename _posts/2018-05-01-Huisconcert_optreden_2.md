@@ -2,6 +2,7 @@
 layout: post
 title:  "Optredens huisconcert"
 cover: "/media/opnamestudio.jpg" 
+thumbs: "/thumbs/opnamestudio.jpg" 
 datum: 1/5/2018
 
 ---

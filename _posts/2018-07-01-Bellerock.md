@@ -2,6 +2,7 @@
 layout: post
 title:  "Bellerock"
 cover: "/media/bellerock.jpg"
+thumbs: "/thumbs/bellerock.jpg"
 datum:   1/7/2018
 ---
 

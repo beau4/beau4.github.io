@@ -2,6 +2,7 @@
 layout: post
 title:  "Stop Darmkanker"
 cover: "/media/StopDarmkanker.jpg"
+thumbs: "/thumbs/StopDarmkanker.jpg"
 datum:   4/6/2017
 ---
 

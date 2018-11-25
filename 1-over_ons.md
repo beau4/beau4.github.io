@@ -4,7 +4,7 @@ navigation_title: Over Ons
 title: Over Beau4
 permalink: /overons/
 button: false
-cover: "/media/Beau4-gra.jpg"
+cover: "/media/beau4-nov2018-4.jpg"
 
 ---
 # Wie zijn wij

@@ -2,6 +2,7 @@
 layout: post
 title:  "Krabbegemse Feesten"
 cover: "/media/20180707-Krabbegemse_feesten_1.JPG"
+thumbs: "/thumbs/20180707-Krabbegemse_feesten_1.JPG"
 datum:   7/7/2018
 ---
 

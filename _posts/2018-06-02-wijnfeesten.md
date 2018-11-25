@@ -2,6 +2,7 @@
 layout: post
 title:  "Wijnfeesten 3.0"
 cover: "/media/20180602-wijnfeesten.jpg"
+thumbs: "/thumbs/20180602-wijnfeesten.jpg"
 datum:   2/6/2018
 ---
 
