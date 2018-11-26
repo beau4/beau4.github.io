@@ -10,8 +10,12 @@ cover: "/media/beau4-nov2018-4.jpg"
 # Wie zijn wij
 
 Beau4 is een popband die ontstaan is in 2016 en bestaat uit: zanger Senne Parewijck (2003), gitarist Joren Van Cauwenberge (2002) en drummer Andert Van der Borght (2002).
+Vanaf januari 2019 zal Wout Temmerman (2000) als multi-muzikant Beau4 versterken.
 Naast popnummers, spelen we ook alternatieve rock, maar vooral eigen nummers. 
 Wichelen is onze thuisbasis, maar optreden doen we overal.
+
+
+
 
 # Wat spelen wij
 
@@ -34,4 +38,6 @@ In de lagere school gaf ik af en toe een klein optreden. De passie voor mijn git
 Ik ben Andert Van der Borght, ik speel al 3 jaar drum. Nu speel ik al 2 jaar in de drumschool van Bavegem.
 Dankzij mijn neef ben ik gepassioneerd geraakt door de drum.
 
+# Meer over Wout 
 
+Ik ben Wout Temmerman, op mijn tiende is mijn muzikale carrière begonnen bij het nationaal jeugdkoor. Vervolgens volgde ik enkele jaren klassieke gitaar, om dan over te schakelen naar de jazz-pop richting in de academie van Gentbrugge. Muziek is mijn dagelijkse metgezel.
