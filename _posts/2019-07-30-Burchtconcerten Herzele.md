@@ -10,4 +10,4 @@ datum:   30/7/2019
 
 
 Voor een fijne vakantieavond hoef je niet in het buitenland te zijn. We brengen onze eigen nummers, gekruid met enkele covers om jullie in een volledige vakantiesfeer te brengen!
-Meer info over dit evenenement vind je op [Facebookpagina](https://nl-nl.facebook.com/burchtconcerten/)
+Meer info over dit evenement vind je op [Facebookpagina](https://nl-nl.facebook.com/burchtconcerten/)

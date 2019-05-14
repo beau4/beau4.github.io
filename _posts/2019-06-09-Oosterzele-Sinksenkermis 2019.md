@@ -10,7 +10,7 @@ datum:   6/9/2019
 
 Kermis, dat is ambiance verzekerd.
 Net zoals vorig jaar zijn we terug van de partij!
-Wij speelden er op zondag 9 juni om 17:30 u op het grote podium.
+Wij spelen er op zondag 9 juni om 17:30 u op het grote podium.
 
 Volledige programma vind je op: [www.sinksenoosterzele.be](http://www.sinksenoosterzele.be/)
 [Facebook Sinksenkermis](https://www.facebook.com/sinksenkermisoosterzele/)
