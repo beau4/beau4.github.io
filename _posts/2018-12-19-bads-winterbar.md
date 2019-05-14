@@ -10,8 +10,8 @@ datum:   19/12/2018
 
 # Dendercover - BADS Winterbar
 
-Wij laten onze muziek weerklinken vanop de oevers van de Dender op woensdag 19 december om 15:30 in het centrum van Aalst op de kerstmarkt. Graag nodigen we iedereen uit in de verwarmde tent op het Werfplein om zich te komen opwarmen.
 
-Onze examens zijn dan achter de rug, dus we gaan er een flinke lap op geven!
 
+Wij lieten onze muziek weerklinken vanop de oevers van de Dender op woensdag 19 december om 15:30 in het centrum van Aalst op de kerstmarkt, in de verwarmde tent op het Werfplein.
+Dit was de ideale manier om onze examenstress weg te spelen! Bedankt voor de supergoede ontvangst en organisatie! 
 [Facebook BADS](https://www.facebook.com/BADSwinterbar/)

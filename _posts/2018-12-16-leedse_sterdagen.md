@@ -10,9 +10,8 @@ datum:   16/12/2018
 
 # Leedse Sterdagen
 
-Het is geen geheim dat Lede ons nauw aan het hart ligt. Het is zo een beetje onze thuisbasis.
-
-Op 16 december om 17:00 kan je ons daar aan het werk zien. Wij kijken er alvast naar uit!
+Op vrijdag 16 december hebben we gespeeld op de kerstmarkt in lede.
+Het publiek was super enthousiast.
 
 
 [Facebook Event](https://www.facebook.com/events/349083235649090/)
