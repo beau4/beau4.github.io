@@ -11,7 +11,7 @@ datum:   15/11/2019
 Jeugdraad Zottegem organiseert een kroegentocht zoals in 'den goewen ouwen tijd', dit voor alle leeftijden, binnen en buiten Zottegem!
 Hou deze datum zeker vrij voor een avond vol (muziek)vermaak van de deelnemende, plaatselijke jeugdcafés die zich in het centrum bevinden! 
 
-Ons kan je aan het werk zien in [Café James](https://nl-nl.facebook.com/JamesZottegem) (Arthur Scheirisstraat 11, 9620 Zottegem)
+Ons kan je aan het werk zien in [Café James](https://nl-nl.facebook.com/JamesZottegem)
 
 Delen is de boodschap en nodig al jouw vrienden uit!
 

@@ -1,3 +1,4 @@
+cd ~/environment
 git pull
 git add *
 git commit -m "Commit message"

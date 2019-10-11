@@ -1,4 +1,5 @@
+cd ~/environment
 git pull
 git add *
-git push -f origin master
 git commit -m "Commit message"
+git push -f origin master
