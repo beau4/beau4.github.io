@@ -133,12 +133,12 @@
 <lastmod>2020-07-07T00:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/event/Parkconcerten-Zottegem.html</loc>
-<lastmod>2020-08-20T00:00:00+02:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/event/esveeka.html</loc>
 <lastmod>2020-08-22T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/event/Parkconcerten-Zottegem.html</loc>
+<lastmod>2020-09-11T00:00:00+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/overons/</loc>

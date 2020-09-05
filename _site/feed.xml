@@ -6,13 +6,29 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Jul 2020 21:50:55 +0200</pubDate>
-    <lastBuildDate>Thu, 02 Jul 2020 21:50:55 +0200</lastBuildDate>
+    <pubDate>Sat, 05 Sep 2020 12:35:53 +0200</pubDate>
+    <lastBuildDate>Sat, 05 Sep 2020 12:35:53 +0200</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
+        <title>Parkconcerten</title>
+        <description>&lt;h1 id=&quot;parkconcerten-zottegem-nieuwe-datum&quot;&gt;Parkconcerten Zottegem (Nieuwe datum)&lt;/h1&gt;
+
+&lt;p&gt;We hebben een nieuwe datum! Je kan ons aan het werk zien op vrijdag 11 september! Welliswaar niet in het park, maar in CC Zoetegem.
+Hospitaalstraat 18, 9620 Zottegem.&lt;/p&gt;
+
+&lt;p&gt;Meer info omtrent veiligheidsvoorschriften en de praktische kant van zaken kan je vinden op de &lt;a href=&quot;https://www.facebook.com/parkconcertenzottegem&quot;&gt;facebook pagina&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 11 Sep 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/event/Parkconcerten-Zottegem.html</link>
+        <guid isPermaLink="true">http://localhost:4000/event/Parkconcerten-Zottegem.html</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>Esveeka</title>
-        <description>&lt;h1 id=&quot;esveeka&quot;&gt;Esveeka&lt;/h1&gt;
+        <description>&lt;h1 id=&quot;esveeka-cancelled&quot;&gt;Esveeka (cancelled)&lt;/h1&gt;
 
 &lt;p&gt;Esveeka - coronaproof edition -  is er dit jaar eentje met veel sfeer en gezelligheid!&lt;/p&gt;
 
@@ -23,21 +39,6 @@
         <pubDate>Sat, 22 Aug 2020 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/event/esveeka.html</link>
         <guid isPermaLink="true">http://localhost:4000/event/esveeka.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Parkconcerten</title>
-        <description>&lt;h1 id=&quot;parkconcerten-zottegem&quot;&gt;Parkconcerten Zottegem&lt;/h1&gt;
-
-&lt;p&gt;Na verschillende weken of zelfs maanden van onzekerheid is de kogel eindelijk door de kerk. De parkconcerten in Zottegem zullen plaats vinden deze zomer en wij zullen ook van de partij zijn. Namelijk op donderdag 20 augustus zijn wij van de partij!&lt;/p&gt;
-
-&lt;p&gt;Meer info omtrent veiligheidsvoorschriften en de praktische kant van zaken kan je vinden op de &lt;a href=&quot;https://www.facebook.com/parkconcertenzottegem&quot;&gt;facebook pagina&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 20 Aug 2020 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/Parkconcerten-Zottegem.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/Parkconcerten-Zottegem.html</guid>
         
         
       </item>
