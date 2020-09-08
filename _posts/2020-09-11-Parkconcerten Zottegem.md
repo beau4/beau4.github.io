@@ -6,9 +6,11 @@ thumbs: "/thumbs/parkconcertenzottegem.png"
 datum:   11/9/2020
 ---
 
-# Parkconcerten Zottegem (Nieuwe datum)
+# Parkconcerten Zottegem (Cancelled)
 
-We hebben een nieuwe datum! Je kan ons aan het werk zien op vrijdag 11 september! Welliswaar niet in het park, maar in CC Zoetegem.
+We hadden een nieuwe datum, maar kan door omstandigheden terug niet doorgaan! We proberen een opnieuw eind september / begin oktober.
+Hopelijk tot binnenkort!
+
 Hospitaalstraat 18, 9620 Zottegem.
 
 Meer info omtrent veiligheidsvoorschriften en de praktische kant van zaken kan je vinden op de [facebook pagina](https://www.facebook.com/parkconcertenzottegem)

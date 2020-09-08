@@ -6,16 +6,18 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 05 Sep 2020 12:40:15 +0200</pubDate>
-    <lastBuildDate>Sat, 05 Sep 2020 12:40:15 +0200</lastBuildDate>
+    <pubDate>Tue, 08 Sep 2020 19:41:46 +0200</pubDate>
+    <lastBuildDate>Tue, 08 Sep 2020 19:41:46 +0200</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
         <title>Parkconcerten</title>
-        <description>&lt;h1 id=&quot;parkconcerten-zottegem-nieuwe-datum&quot;&gt;Parkconcerten Zottegem (Nieuwe datum)&lt;/h1&gt;
+        <description>&lt;h1 id=&quot;parkconcerten-zottegem-cancelled&quot;&gt;Parkconcerten Zottegem (Cancelled)&lt;/h1&gt;
 
-&lt;p&gt;We hebben een nieuwe datum! Je kan ons aan het werk zien op vrijdag 11 september! Welliswaar niet in het park, maar in CC Zoetegem.
-Hospitaalstraat 18, 9620 Zottegem.&lt;/p&gt;
+&lt;p&gt;We hadden een nieuwe datum, maar kan door omstandigheden terug niet doorgaan! We proberen een opnieuw eind september / begin oktober.
+Hopelijk tot binnenkort!&lt;/p&gt;
+
+&lt;p&gt;Hospitaalstraat 18, 9620 Zottegem.&lt;/p&gt;
 
 &lt;p&gt;Meer info omtrent veiligheidsvoorschriften en de praktische kant van zaken kan je vinden op de &lt;a href=&quot;https://www.facebook.com/parkconcertenzottegem&quot;&gt;facebook pagina&lt;/a&gt;&lt;/p&gt;
 </description>
