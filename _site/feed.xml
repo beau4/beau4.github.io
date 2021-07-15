@@ -6,18 +6,31 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Sep 2020 19:41:46 +0200</pubDate>
-    <lastBuildDate>Tue, 08 Sep 2020 19:41:46 +0200</lastBuildDate>
+    <pubDate>Thu, 15 Jul 2021 18:40:47 +0200</pubDate>
+    <lastBuildDate>Thu, 15 Jul 2021 18:40:47 +0200</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
+        <title>Yugen Booch Bar</title>
+        <description>&lt;h1 id=&quot;garden-session--yugen-booch-bar&quot;&gt;Garden Session @ Yugen Booch Bar&lt;/h1&gt;
+
+&lt;p&gt;We gaan muzikaal wat dingetjes uitproberen en jullie kunnen daar van meegenieten! Kom dus zeker naar deze gezellige bar in Gent!&lt;/p&gt;
+
+&lt;p&gt;Meer info kan je vinden op de &lt;a href=&quot;https://www.facebook.com/yugenboochbar/&quot;&gt;facebook pagina&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 18 Jul 2021 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/event/Booch-Bar.html</link>
+        <guid isPermaLink="true">http://localhost:4000/event/Booch-Bar.html</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>Parkconcerten</title>
-        <description>&lt;h1 id=&quot;parkconcerten-zottegem-cancelled&quot;&gt;Parkconcerten Zottegem (Cancelled)&lt;/h1&gt;
+        <description>&lt;h1 id=&quot;parkconcerten-zottegem&quot;&gt;Parkconcerten Zottegem&lt;/h1&gt;
 
-&lt;p&gt;We hadden een nieuwe datum, maar kan door omstandigheden terug niet doorgaan! We proberen een opnieuw eind september / begin oktober.
-Hopelijk tot binnenkort!&lt;/p&gt;
-
-&lt;p&gt;Hospitaalstraat 18, 9620 Zottegem.&lt;/p&gt;
+&lt;p&gt;Wij hebben er heel erg van genoten om na lange tijd nog eens op een podium te staan.
+Bedankt iedereen!&lt;/p&gt;
 
 &lt;p&gt;Meer info omtrent veiligheidsvoorschriften en de praktische kant van zaken kan je vinden op de &lt;a href=&quot;https://www.facebook.com/parkconcertenzottegem&quot;&gt;facebook pagina&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -195,23 +208,6 @@ Oude Heerbaan 12, 9420 Erpe-Mere, België&lt;/p&gt;
         <pubDate>Sat, 02 Nov 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/event/SchouwRock-2019.html</link>
         <guid isPermaLink="true">http://localhost:4000/event/SchouwRock-2019.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Boeren Buiten Barbecue</title>
-        <description>&lt;h1 id=&quot;boeren-buiten-barbecue-van-de-6e-jaars-op-smc&quot;&gt;Boeren Buiten Barbecue van de 6e jaars op SMC&lt;/h1&gt;
-
-&lt;p&gt;We kunnen natuurlijk niet ontbreken als er een feestje is op onze eigen school. Beau4 is officieel ontstaan in 2016, maar sinds 2014 speelden Joren, Andert en Senne geregeld samen muziek tijdens de middagpauzes op onze fantastische school!
-We treden op om 19u. Inkom is gratis. 
-We nodigen jullie van harte uit om een aperitiefje te komen drinken tijdens ons optreden en daarna te genieten van een overheerlijke BBQ! 
-Meer info over het evenement op &lt;a href=&quot;https://www.facebook.com/events/stella-matutinacollege/boerenbuiten-barbecue-6e-jaars-smc-lede/949688035393804/&quot;&gt;Facebookpagina evenement&lt;/a&gt; waar jullie ook kaarten kunnen bestellen voor een overheerlijke BBQ!
-Iedereen welkom!&lt;/p&gt;
-</description>
-        <pubDate>Sat, 19 Oct 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/BoerenBuitenBarbecue.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/BoerenBuitenBarbecue.html</guid>
         
         
       </item>

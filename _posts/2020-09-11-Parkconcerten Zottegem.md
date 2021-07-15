@@ -3,14 +3,13 @@ layout: post
 title:  "Parkconcerten"
 cover: "/media/parkconcertenzottegem.png"
 thumbs: "/thumbs/parkconcertenzottegem.png"
-datum:   11/9/2020
+datum:   8/7/2021
 ---
 
-# Parkconcerten Zottegem (Cancelled)
+# Parkconcerten Zottegem
 
-We hadden een nieuwe datum, maar kan door omstandigheden terug niet doorgaan! We proberen een opnieuw eind september / begin oktober.
-Hopelijk tot binnenkort!
+Wij hebben er heel erg van genoten om na lange tijd nog eens op een podium te staan.
+Bedankt iedereen!
 
-Hospitaalstraat 18, 9620 Zottegem.
 
 Meer info omtrent veiligheidsvoorschriften en de praktische kant van zaken kan je vinden op de [facebook pagina](https://www.facebook.com/parkconcertenzottegem)
