@@ -6,9 +6,26 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Jul 2021 18:59:28 +0200</pubDate>
-    <lastBuildDate>Thu, 15 Jul 2021 18:59:28 +0200</lastBuildDate>
+    <pubDate>Fri, 13 Aug 2021 18:59:20 +0200</pubDate>
+    <lastBuildDate>Fri, 13 Aug 2021 18:59:20 +0200</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Esveeka</title>
+        <description>&lt;h1 id=&quot;esveeka&quot;&gt;Esveeka&lt;/h1&gt;
+
+&lt;p&gt;We spelen Zondagavond op het feestweekend van Scouts en Gidsen Were Di Serskamp.&lt;/p&gt;
+
+&lt;p&gt;Meer info zie Facebook Event&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/people/Esveeka/100067196238884/&quot;&gt;Facebook Event&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 29 Aug 2021 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/event/esveeka.html</link>
+        <guid isPermaLink="true">http://localhost:4000/event/esveeka.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Yugen Booch Bar</title>
@@ -188,26 +205,6 @@ Arthur Scheirisstraat 11, 9620 Zottegem&lt;/p&gt;
         <pubDate>Fri, 15 Nov 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/event/Kroegentocht-Zottegem-2019.html</link>
         <guid isPermaLink="true">http://localhost:4000/event/Kroegentocht-Zottegem-2019.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>SchouwRock 2019</title>
-        <description>&lt;h1 id=&quot;schouwrock-in-erpe&quot;&gt;SchouwRock in Erpe&lt;/h1&gt;
-
-&lt;p&gt;Dit gezelligste festival van Erpe en omstreken was inmiddels aan zijn 13e editie toe. We zijn dan ook heel erg blij dat we op het SchouwRock podium mochten optreden.
-Je kon ons aan het werk zien op zaterdag 2 november om 18h00 (deuren openen om 16h00).
-Zoals gebruikelijk brachten wij onze eigen nummers aangevuld met enkele mooie covers.&lt;/p&gt;
-
-&lt;p&gt;Schouwrock jullie waren een fantastische plek en een superenthousiast publiek! Bedankt dat we er mochten bij zijn!&lt;/p&gt;
-
-&lt;p&gt;Meer info over dit evenement vind je op &lt;a href=&quot;https://www.facebook.com/events/683136125531089/&quot;&gt;Facebookpagina&lt;/a&gt;
-Oude Heerbaan 12, 9420 Erpe-Mere, België&lt;/p&gt;
-</description>
-        <pubDate>Sat, 02 Nov 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/event/SchouwRock-2019.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/SchouwRock-2019.html</guid>
         
         
       </item>
