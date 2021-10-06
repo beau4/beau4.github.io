@@ -6,9 +6,22 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Sep 2021 20:18:27 +0200</pubDate>
-    <lastBuildDate>Sun, 05 Sep 2021 20:18:27 +0200</lastBuildDate>
+    <pubDate>Wed, 06 Oct 2021 18:50:15 +0200</pubDate>
+    <lastBuildDate>Wed, 06 Oct 2021 18:50:15 +0200</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Kermis Impe 2021</title>
+        <description>&lt;h1 id=&quot;kermis-impe&quot;&gt;Kermis Impe&lt;/h1&gt;
+
+&lt;p&gt;We kijken ernaar uit om op de kermis van Impe (Impedorp, aan het café Buitenbeentje) te spelen.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 09 Oct 2021 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/event/Kermis-Impe-2021.html</link>
+        <guid isPermaLink="true">http://localhost:4000/event/Kermis-Impe-2021.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>JeugdHuis De Muze Zottegem</title>
@@ -160,26 +173,6 @@ Bedankt iedereen!&lt;/p&gt;
         <link>http://localhost:4000/event/esveeka.html</link>
         <guid isPermaLink="true">http://localhost:4000/event/esveeka.html</guid>
         
-        
-      </item>
-    
-      <item>
-        <title>Burchtconcerten 2020</title>
-        <description>&lt;h1 id=&quot;burchtconcerten-in-herzele&quot;&gt;Burchtconcerten in Herzele&lt;/h1&gt;
-
-&lt;p&gt;De burchtconcerten vorig jaar, een TOP avond! De organisatoren hebben gezien de omstandigheden hemel en aarde bewogen om ook dit jaar dit geweldige evenement op een veilige manier te kunnen laten doorgaan. Wij zijn dan ook heel blij dat we de spits mogen afbijten van deze reeks van concerten.&lt;/p&gt;
-
-&lt;p&gt;Je kan ons aan het werk zien op 7 juli. De concerten beginnen rond 20u. Kom zeker op tijd dan kunnen jullie eerst nog genieten van de rock ‘n roll band &lt;a href=&quot;https://onedollartrio.com&quot;&gt;One Dollar Trio&lt;/a&gt;. Na lang repeteren “in ons kot” staan we te springen om er een knaloptreden van te maken.&lt;/p&gt;
-
-&lt;p&gt;Meer info over dit evenement vind je op &lt;a href=&quot;https://www.facebook.com/burchtconcerten&quot;&gt;Facebookpagina&lt;/a&gt;.
-Let op: Corono-proof edition: plaats reserveren is verplicht!&lt;/p&gt;
-</description>
-        <pubDate>Tue, 07 Jul 2020 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/Burchtconcerten-Herzele.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/Burchtconcerten-Herzele.html</guid>
-        
-        
-        <category>beau4.github.io</category>
         
       </item>
     
