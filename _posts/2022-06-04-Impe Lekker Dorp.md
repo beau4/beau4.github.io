@@ -8,4 +8,4 @@ datum:   4/6/2022
 
 # Impe Lekker 2022
 
-We spelen rond 18:00 ter hoogte van het café Buitenbeentje.
+We spelen in Impe Dorp rond 18:00
