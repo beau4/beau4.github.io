@@ -6,9 +6,22 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Oct 2021 09:39:52 +0200</pubDate>
-    <lastBuildDate>Thu, 07 Oct 2021 09:39:52 +0200</lastBuildDate>
+    <pubDate>Mon, 30 May 2022 22:29:15 +0200</pubDate>
+    <lastBuildDate>Mon, 30 May 2022 22:29:15 +0200</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Impe Lekker 2022</title>
+        <description>&lt;h1 id=&quot;impe-lekker-2022&quot;&gt;Impe Lekker 2022&lt;/h1&gt;
+
+&lt;p&gt;We spelen in Impe Dorp rond 18:00&lt;/p&gt;
+</description>
+        <pubDate>Sat, 04 Jun 2022 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/event/Impe-Lekker-Dorp.html</link>
+        <guid isPermaLink="true">http://localhost:4000/event/Impe-Lekker-Dorp.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Kermis Impe 2021</title>
@@ -89,41 +102,6 @@
         <guid isPermaLink="true">http://localhost:4000/event/Booch-Bar.html</guid>
         
         
-        <category>beau4.github.io</category>
-        
-      </item>
-    
-      <item>
-        <title>Yugen Booch Bar</title>
-        <description>&lt;h1 id=&quot;garden-session--yugen-booch-bar&quot;&gt;Garden Session @ Yugen Booch Bar&lt;/h1&gt;
-
-&lt;p&gt;We gaan muzikaal wat dingetjes uitproberen en jullie kunnen daar van meegenieten! Kom dus zeker zondagavond naar deze gezellige bar in Gent!&lt;/p&gt;
-
-&lt;p&gt;Meer info kan je vinden op de &lt;a href=&quot;https://www.facebook.com/yugenboochbar/&quot;&gt;facebook pagina&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 18 Jul 2021 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/Booch-Bar.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/Booch-Bar.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Parkconcerten</title>
-        <description>&lt;h1 id=&quot;parkconcerten-zottegem&quot;&gt;Parkconcerten Zottegem&lt;/h1&gt;
-
-&lt;p&gt;Wij hebben er heel erg van genoten om na lange tijd nog eens op een podium te staan.
-Bedankt iedereen!&lt;/p&gt;
-
-&lt;p&gt;Meer info omtrent veiligheidsvoorschriften en de praktische kant van zaken kan je vinden op de &lt;a href=&quot;https://www.facebook.com/parkconcertenzottegem&quot;&gt;facebook pagina&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 11 Sep 2020 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/Parkconcerten-Zottegem.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/Parkconcerten-Zottegem.html</guid>
-        
-        
-        <category>beau4.github.io</category>
-        
       </item>
     
       <item>
@@ -157,23 +135,42 @@ Bedankt iedereen!&lt;/p&gt;
         <guid isPermaLink="true">http://localhost:4000/event/esveeka.html</guid>
         
         
-        <category>beau4.github.io</category>
+      </item>
+    
+      <item>
+        <title>Burchtconcerten 2020</title>
+        <description>&lt;h1 id=&quot;burchtconcerten-in-herzele&quot;&gt;Burchtconcerten in Herzele&lt;/h1&gt;
+
+&lt;p&gt;De burchtconcerten vorig jaar, een TOP avond! De organisatoren hebben gezien de omstandigheden hemel en aarde bewogen om ook dit jaar dit geweldige evenement op een veilige manier te kunnen laten doorgaan. Wij zijn dan ook heel blij dat we de spits mogen afbijten van deze reeks van concerten.&lt;/p&gt;
+
+&lt;p&gt;Je kan ons aan het werk zien op 7 juli. De concerten beginnen rond 20u. Kom zeker op tijd dan kunnen jullie eerst nog genieten van de rock ‘n roll band &lt;a href=&quot;https://onedollartrio.com&quot;&gt;One Dollar Trio&lt;/a&gt;. Na lang repeteren “in ons kot” staan we te springen om er een knaloptreden van te maken.&lt;/p&gt;
+
+&lt;p&gt;Meer info over dit evenement vind je op &lt;a href=&quot;https://www.facebook.com/burchtconcerten&quot;&gt;Facebookpagina&lt;/a&gt;.
+Let op: Corono-proof edition: plaats reserveren is verplicht!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 07 Jul 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/event/Burchtconcerten-Herzele.html</link>
+        <guid isPermaLink="true">http://localhost:4000/event/Burchtconcerten-Herzele.html</guid>
+        
         
       </item>
     
       <item>
-        <title>Esveeka</title>
-        <description>&lt;h1 id=&quot;esveeka-cancelled&quot;&gt;Esveeka (cancelled)&lt;/h1&gt;
+        <title>Nieuw nummer!</title>
+        <description>&lt;h1 id=&quot;nieuw-eigen-nummer-stops-beating&quot;&gt;Nieuw eigen nummer: “Stops Beating”&lt;/h1&gt;
 
-&lt;p&gt;Esveeka - coronaproof edition -  is er dit jaar eentje met veel sfeer en gezelligheid!&lt;/p&gt;
+&lt;p&gt;Als jullie ons ook missen dan kunnen jullie hier even genieten van een thuisopname van ons recentste eigen geschreven nummer “Stops Beating”.&lt;/p&gt;
 
-&lt;p&gt;Beau4 kan je zien op zaterdagavond!&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xaKQ5ETLSpo&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/280937495880367/&quot;&gt;Facebook Event&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We hebben al heel wat annulaties van zomerconcerten ontvangen, hopelijk zien we elkaar toch snel terug.&lt;/p&gt;
+
+&lt;p&gt;Groetjes van Beau4!&lt;/p&gt;
+
 </description>
-        <pubDate>Sat, 22 Aug 2020 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/esveeka.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/esveeka.html</guid>
+        <pubDate>Wed, 27 May 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/event/Stops-Beating.html</link>
+        <guid isPermaLink="true">http://localhost:4000/event/Stops-Beating.html</guid>
         
         
       </item>

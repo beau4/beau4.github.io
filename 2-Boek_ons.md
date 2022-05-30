@@ -4,7 +4,7 @@ title: Een Concert op jouw evenement.
 navigation_title: Boek ons
 permalink: /Boek_ons/
 button: false
-cover: "/media/opnamestudio.jpg"
+cover: "/media/Beau4Wall2.jpg"
 
 ---
 
