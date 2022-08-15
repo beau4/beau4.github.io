@@ -7,6 +7,14 @@ button: false
 cover: "/media/Beau4Wall1.jpg"
 ---
 
+# Beluisteren
+
+Je kan onze eigen nummers beluisten op Spotify en Apple Music
+
+[Beau4 op Apple Music](https://music.apple.com/be/artist/beau4/1594260516)
+
+[Beau4 op Spotify](https://open.spotify.com/artist/4x6XJ9uidnXxyAKXceeI5k?si=vcw-jx0sQrqdtYV-8rUgiQ)
+
 # Wie zijn wij
 
 Beau4 is een popband die ontstaan is in 2016 en bestaat uit: zanger Senne Parewijck (2003), gitarist Joren Van Cauwenberge (2002) en drummer Andert Van der Borght (2002).

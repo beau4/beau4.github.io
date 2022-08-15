@@ -2,7 +2,7 @@
 layout: post
 title:  "Impe Lekker 2022"
 cover: "/media/impelekkerdorp.jpg"
-thumbs: "/thumbs/impelekkerdorp.jpg"
+thumbs: "/media/impelekkerdorp.jpg"
 datum:   4/6/2022
 ---
 
