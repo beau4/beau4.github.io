@@ -4,10 +4,10 @@
     <title>Beau4</title>
     <description>Beau4 Band Senne Andert Joren Optreden Muziek
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 15 Aug 2022 15:42:58 +0200</pubDate>
-    <lastBuildDate>Mon, 15 Aug 2022 15:42:58 +0200</lastBuildDate>
+    <link>http://beau4.band/</link>
+    <atom:link href="http://beau4.band/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 15 Aug 2022 17:26:14 +0200</pubDate>
+    <lastBuildDate>Mon, 15 Aug 2022 17:26:14 +0200</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -15,13 +15,13 @@
         <description>&lt;h1 id=&quot;beau4-op-bombelbas-festival&quot;&gt;Beau4 op Bombelbas Festival!&lt;/h1&gt;
 
 &lt;p&gt;Op vrijdag 2 september om 19u mogen wij het grote folk-rock-familie festival Bombelbas openen.
-Dit festival vind plaats in de Bevegemse Vijvers te Zottegem.&lt;/p&gt;
+Dit festival vindt plaats aan de Bevegemse Vijvers te Zottegem.&lt;/p&gt;
 
 &lt;p&gt;Meer info over het festival vind je op &lt;a href=&quot;https://www.bombelbas.be&quot;&gt;www.bombelbas.be&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 02 Sep 2022 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/Bombelbas.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/Bombelbas.html</guid>
+        <link>http://beau4.band/event/Bombelbas.html</link>
+        <guid isPermaLink="true">http://beau4.band/event/Bombelbas.html</guid>
         
         
       </item>
@@ -37,8 +37,8 @@ Dit festival vind plaats in de Bevegemse Vijvers te Zottegem.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/people/Esveeka/100067196238884/&quot;&gt;Facebook Event&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 27 Aug 2022 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/esveeka.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/esveeka.html</guid>
+        <link>http://beau4.band/event/esveeka.html</link>
+        <guid isPermaLink="true">http://beau4.band/event/esveeka.html</guid>
         
         
       </item>
@@ -52,8 +52,8 @@ Dit festival vind plaats in de Bevegemse Vijvers te Zottegem.&lt;/p&gt;
 &lt;p&gt;Meer info over dit evenenement vind je op &lt;a href=&quot;https://fb.me/e/25ZnPEzll&quot;&gt;facebook pagina De Hellekapelle&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Aug 2022 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/Vestenrock-2022.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/Vestenrock-2022.html</guid>
+        <link>http://beau4.band/event/Vestenrock-2022.html</link>
+        <guid isPermaLink="true">http://beau4.band/event/Vestenrock-2022.html</guid>
         
         
       </item>
@@ -65,8 +65,8 @@ Dit festival vind plaats in de Bevegemse Vijvers te Zottegem.&lt;/p&gt;
 &lt;p&gt;We spelen in Impe Dorp rond 18:00&lt;/p&gt;
 </description>
         <pubDate>Sat, 04 Jun 2022 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/Impe-Lekker-Dorp.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/Impe-Lekker-Dorp.html</guid>
+        <link>http://beau4.band/event/Impe-Lekker-Dorp.html</link>
+        <guid isPermaLink="true">http://beau4.band/event/Impe-Lekker-Dorp.html</guid>
         
         
       </item>
@@ -80,8 +80,8 @@ Dit festival vind plaats in de Bevegemse Vijvers te Zottegem.&lt;/p&gt;
 &lt;p&gt;We beginnen rond 20u&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 Oct 2021 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/Kermis-Impe-2021.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/Kermis-Impe-2021.html</guid>
+        <link>http://beau4.band/event/Kermis-Impe-2021.html</link>
+        <guid isPermaLink="true">http://beau4.band/event/Kermis-Impe-2021.html</guid>
         
         
       </item>
@@ -95,8 +95,8 @@ Dit festival vind plaats in de Bevegemse Vijvers te Zottegem.&lt;/p&gt;
 &lt;p&gt;We maken er een spetterend feest van! Alle info vind je op het &lt;a href=&quot;https://www.facebook.com/events/961673584396581&quot;&gt;facebook evenement&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 25 Sep 2021 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/JH-De-Muze.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/JH-De-Muze.html</guid>
+        <link>http://beau4.band/event/JH-De-Muze.html</link>
+        <guid isPermaLink="true">http://beau4.band/event/JH-De-Muze.html</guid>
         
         
       </item>
@@ -114,8 +114,8 @@ Dit festival vind plaats in de Bevegemse Vijvers te Zottegem.&lt;/p&gt;
 &lt;p&gt;Voor meer info zie &lt;a href=&quot;https://www.facebook.com/hetfeestvandeburgemeester/&quot;&gt;Facebook pagina Feest van de Burgemeester&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 12 Sep 2021 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/feest-van-de-burgemeester.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/feest-van-de-burgemeester.html</guid>
+        <link>http://beau4.band/event/feest-van-de-burgemeester.html</link>
+        <guid isPermaLink="true">http://beau4.band/event/feest-van-de-burgemeester.html</guid>
         
         
       </item>
@@ -131,8 +131,8 @@ Dit festival vind plaats in de Bevegemse Vijvers te Zottegem.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/people/Esveeka/100067196238884/&quot;&gt;Facebook Event&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 29 Aug 2021 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/esveeka.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/esveeka.html</guid>
+        <link>http://beau4.band/event/esveeka.html</link>
+        <guid isPermaLink="true">http://beau4.band/event/esveeka.html</guid>
         
         
       </item>
@@ -146,8 +146,8 @@ Dit festival vind plaats in de Bevegemse Vijvers te Zottegem.&lt;/p&gt;
 &lt;p&gt;Meer info kan je vinden op de &lt;a href=&quot;https://www.facebook.com/yugenboochbar/&quot;&gt;facebook pagina&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 18 Jul 2021 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/Booch-Bar.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/Booch-Bar.html</guid>
+        <link>http://beau4.band/event/Booch-Bar.html</link>
+        <guid isPermaLink="true">http://beau4.band/event/Booch-Bar.html</guid>
         
         
       </item>
@@ -162,8 +162,8 @@ Bedankt iedereen!&lt;/p&gt;
 &lt;p&gt;Meer info omtrent veiligheidsvoorschriften en de praktische kant van zaken kan je vinden op de &lt;a href=&quot;https://www.facebook.com/parkconcertenzottegem&quot;&gt;facebook pagina&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 11 Sep 2020 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/Parkconcerten-Zottegem.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/Parkconcerten-Zottegem.html</guid>
+        <link>http://beau4.band/event/Parkconcerten-Zottegem.html</link>
+        <guid isPermaLink="true">http://beau4.band/event/Parkconcerten-Zottegem.html</guid>
         
         
       </item>
