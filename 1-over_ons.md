@@ -40,7 +40,7 @@ In de lagere school gaf ik af en toe een klein optreden. De passie voor mijn git
 
 # Meer over Andert 
 
-Ik ben Andert Van der Borght, Ik ben op 12-jarige leeftijd begonnen met te drummen. Als ik 13 jaar was, ben ik begonnen met les te volgen in de drumschool te Bavegem.
+Ik ben Andert Van der Borght, ik ben op 12-jarige leeftijd begonnen met te drummen. Als ik 13 jaar was, ben ik begonnen met les te volgen in de drumschool te Bavegem.
 Dankzij mijn neef ben ik gepassioneerd geraakt door de drum.
 
 # Meer over Wout 

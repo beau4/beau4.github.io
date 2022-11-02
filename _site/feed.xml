@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beau4</title>
-    <description>Beau4 Band Senne Andert Joren Optreden Muziek
+    <description>Beau4 Band Senne Andert Joren Wout Optreden Muziek
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Oct 2022 11:26:57 +0200</pubDate>
-    <lastBuildDate>Fri, 21 Oct 2022 11:26:57 +0200</lastBuildDate>
+    <pubDate>Wed, 02 Nov 2022 18:31:22 +0100</pubDate>
+    <lastBuildDate>Wed, 02 Nov 2022 18:31:22 +0100</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -37,8 +37,8 @@ Dit festival vindt plaats aan de Bevegemse Vijvers te Zottegem.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/people/Esveeka/100067196238884/&quot;&gt;Facebook Event&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 27 Aug 2022 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/esveeka.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/esveeka.html</guid>
+        <link>http://localhost:4000/event/Esveeka-2022.html</link>
+        <guid isPermaLink="true">http://localhost:4000/event/Esveeka-2022.html</guid>
         
         
       </item>
@@ -95,8 +95,8 @@ Dit festival vindt plaats aan de Bevegemse Vijvers te Zottegem.&lt;/p&gt;
 &lt;p&gt;We maken er een spetterend feest van! Alle info vind je op het &lt;a href=&quot;https://www.facebook.com/events/961673584396581&quot;&gt;facebook evenement&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 25 Sep 2021 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/JH-De-Muze.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/JH-De-Muze.html</guid>
+        <link>http://localhost:4000/event/JH-De-Muze-2021.html</link>
+        <guid isPermaLink="true">http://localhost:4000/event/JH-De-Muze-2021.html</guid>
         
         
       </item>
@@ -107,15 +107,15 @@ Dit festival vindt plaats aan de Bevegemse Vijvers te Zottegem.&lt;/p&gt;
 
 &lt;p&gt;‘t Ankerpunt “Here we are again!”&lt;/p&gt;
 
-&lt;p&gt;5 jaar geleden speelden we ons eerste echte live optreden. Zie foto hierboven. Eens kijken of jullie ons nog herkennen.&lt;/p&gt;
+&lt;p&gt;5 jaar geleden speelden we ons eerste echte live optreden zoals te zien op de foto hierboven. Eens kijken of jullie ons nog herkennen.&lt;/p&gt;
 
 &lt;p&gt;We zien jullie graag terug op dit “Feest van de Burgemeester” in Serskamp (Wichelen).&lt;/p&gt;
 
 &lt;p&gt;Voor meer info zie &lt;a href=&quot;https://www.facebook.com/hetfeestvandeburgemeester/&quot;&gt;Facebook pagina Feest van de Burgemeester&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 12 Sep 2021 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/feest-van-de-burgemeester.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/feest-van-de-burgemeester.html</guid>
+        <link>http://localhost:4000/event/feest-van-de-burgemeester-2021.html</link>
+        <guid isPermaLink="true">http://localhost:4000/event/feest-van-de-burgemeester-2021.html</guid>
         
         
       </item>
@@ -131,8 +131,8 @@ Dit festival vindt plaats aan de Bevegemse Vijvers te Zottegem.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/people/Esveeka/100067196238884/&quot;&gt;Facebook Event&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 29 Aug 2021 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/esveeka.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/esveeka.html</guid>
+        <link>http://localhost:4000/event/Esveeka-2021.html</link>
+        <guid isPermaLink="true">http://localhost:4000/event/Esveeka-2021.html</guid>
         
         
       </item>
