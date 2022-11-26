@@ -6,9 +6,25 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Nov 2022 18:31:22 +0100</pubDate>
-    <lastBuildDate>Wed, 02 Nov 2022 18:31:22 +0100</lastBuildDate>
+    <pubDate>Sat, 26 Nov 2022 21:50:37 +0100</pubDate>
+    <lastBuildDate>Sat, 26 Nov 2022 21:50:37 +0100</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Shine release!</title>
+        <description>&lt;h1 id=&quot;shine-staat-online&quot;&gt;“Shine” staat online!&lt;/h1&gt;
+
+&lt;p&gt;De afgelopen maand hebben we terug aan een nieuwe opname gewerkt. Zo hebben we tijdens een weekend in de slaapkamer van Wout alles opgenomen. Van drummen tot 3 uur in de nacht tot inzingen om 7 uur s’ochtends. Met dit nummer hebben we dan ook een poging gewaagd bij De Nieuwe Lichting.&lt;/p&gt;
+
+&lt;p&gt;Het nummer is terug te vinden op jullie favoriete streaming platform.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 04 Dec 2022 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/event/Shine.html</link>
+        <guid isPermaLink="true">http://localhost:4000/event/Shine.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Bombelbas Festival</title>
@@ -67,6 +83,24 @@ Dit festival vindt plaats aan de Bevegemse Vijvers te Zottegem.&lt;/p&gt;
         <pubDate>Sat, 04 Jun 2022 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/event/Impe-Lekker-Dorp.html</link>
         <guid isPermaLink="true">http://localhost:4000/event/Impe-Lekker-Dorp.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Rebels release!</title>
+        <description>&lt;h1 id=&quot;nieuw-eigen-nummer-online-rebels&quot;&gt;Nieuw eigen nummer online: “Rebels”&lt;/h1&gt;
+
+&lt;p&gt;De afgelopen dagen zijn we samen Wout zijn slaapkamer ingedoken voor dit nummer op te nemen. Na een paar dagen opnemen en wat meer dagen Wout het te laten afmixen, kunnen we fier het resultaat presenteren. Hier is Rebels!&lt;/p&gt;
+
+&lt;p&gt;Rebels is te beluisten op &lt;a href=&quot;https://open.spotify.com/track/6BJtHu2OfytdEvfXRvaN0Q?si=W2tXBYl7TdOh4cIbCsNCuw&quot;&gt;Spotify&lt;/a&gt;, &lt;a href=&quot;https://music.apple.com/be/album/rebels/1594260239?i=1594260517&amp;amp;l=nl&quot;&gt;Apple music&lt;/a&gt;, &lt;a href=&quot;https://deezer.page.link/K989HbumnYKVcdrd6&quot;&gt;Deezer&lt;/a&gt; en vele andere muziekplatformen.&lt;/p&gt;
+
+&lt;p&gt;Groetjes van Beau4!&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 14 Nov 2021 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/event/Rebels.html</link>
+        <guid isPermaLink="true">http://localhost:4000/event/Rebels.html</guid>
         
         
       </item>
@@ -133,37 +167,6 @@ Dit festival vindt plaats aan de Bevegemse Vijvers te Zottegem.&lt;/p&gt;
         <pubDate>Sun, 29 Aug 2021 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/event/Esveeka-2021.html</link>
         <guid isPermaLink="true">http://localhost:4000/event/Esveeka-2021.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Yugen Booch Bar</title>
-        <description>&lt;h1 id=&quot;garden-session--yugen-booch-bar&quot;&gt;Garden Session @ Yugen Booch Bar&lt;/h1&gt;
-
-&lt;p&gt;We gaan muzikaal wat dingetjes uitproberen en jullie kunnen daar van meegenieten! Kom dus zeker zondagavond naar deze gezellige bar in Gent!&lt;/p&gt;
-
-&lt;p&gt;Meer info kan je vinden op de &lt;a href=&quot;https://www.facebook.com/yugenboochbar/&quot;&gt;facebook pagina&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 18 Jul 2021 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/Booch-Bar.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/Booch-Bar.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Parkconcerten</title>
-        <description>&lt;h1 id=&quot;parkconcerten-zottegem&quot;&gt;Parkconcerten Zottegem&lt;/h1&gt;
-
-&lt;p&gt;Wij hebben er heel erg van genoten om na lange tijd nog eens op een podium te staan.
-Bedankt iedereen!&lt;/p&gt;
-
-&lt;p&gt;Meer info omtrent veiligheidsvoorschriften en de praktische kant van zaken kan je vinden op de &lt;a href=&quot;https://www.facebook.com/parkconcertenzottegem&quot;&gt;facebook pagina&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 11 Sep 2020 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/Parkconcerten-Zottegem.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/Parkconcerten-Zottegem.html</guid>
         
         
       </item>

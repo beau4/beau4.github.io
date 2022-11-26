@@ -161,6 +161,10 @@
 <lastmod>2021-10-09T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/event/Rebels.html</loc>
+<lastmod>2021-11-14T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/event/Impe-Lekker-Dorp.html</loc>
 <lastmod>2022-06-04T00:00:00+02:00</lastmod>
 </url>
@@ -175,6 +179,10 @@
 <url>
 <loc>http://localhost:4000/event/Bombelbas.html</loc>
 <lastmod>2022-09-02T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/event/Shine.html</loc>
+<lastmod>2022-12-04T00:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/overons/</loc>

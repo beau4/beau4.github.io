@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nieuw nummer!"
+title:  "Stops Beating release!"
 cover: "/media/StopsBeating.png"
 thumbs: "/media/StopsBeating.png"
 ---
