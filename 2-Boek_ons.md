@@ -12,4 +12,4 @@ Wil je graag dat we jullie evenement opvrolijken?
 
 Neem dan contact op met Beau4 via het onderstaande e-mailadres:
 
-[Beau4.music@gmail.com](mailto:beau4.music@gmail.com)
+[Beau4.band@gmail.com](mailto:beau4.band@gmail.com)

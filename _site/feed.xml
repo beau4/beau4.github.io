@@ -6,9 +6,81 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 26 Nov 2022 21:50:37 +0100</pubDate>
-    <lastBuildDate>Sat, 26 Nov 2022 21:50:37 +0100</lastBuildDate>
+    <pubDate>Tue, 29 Aug 2023 15:55:39 +0200</pubDate>
+    <lastBuildDate>Tue, 29 Aug 2023 15:55:39 +0200</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Nieuwe Muziek!</title>
+        <description>&lt;h1 id=&quot;nieuwe-muziek&quot;&gt;Nieuwe Muziek!&lt;/h1&gt;
+
+&lt;p&gt;Het afgelopen jaar hebben we weer enkele mooie nummers geschreven. Terwijl we de laatste finalisaties aan de opnames aan het afwerken zijn, kan je de nummers gerust al eens live komen beluisteren op een van onze optredens!&lt;/p&gt;
+
+&lt;p&gt;Volg ons zeker op Instagram om sneak peeks te krijgen en als eerste op de hoogte te zijn van de release datum!&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 31 Dec 2023 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/event/Appel-Dokter.html</link>
+        <guid isPermaLink="true">http://localhost:4000/event/Appel-Dokter.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Esveeka 2023</title>
+        <description>&lt;h1 id=&quot;scouts-vlaamse-kermis-2023&quot;&gt;Scouts Vlaamse Kermis 2023&lt;/h1&gt;
+
+&lt;p&gt;Op zaterdagavond konden we het publiek op de scouts warmmaken voor de dj’s die na ons zouden optreden. Op deze mooie zomeravond brachten we een goede sfeer en veel energie naar de scoutsterreinen van Serskamp.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 26 Aug 2023 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/event/Esveeka-2023.html</link>
+        <guid isPermaLink="true">http://localhost:4000/event/Esveeka-2023.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Vestenkermis 2023</title>
+        <description>&lt;h1 id=&quot;vestenkermis-2023&quot;&gt;Vestenkermis 2023&lt;/h1&gt;
+
+&lt;p&gt;Op zondag tijdens de kermis van zottegem konden we in de Vestenstraat optreden. Op dit mooie podium gaven we het beste van onszelf terwijl het publiek rustig van een drankje en een hapje kon genieten.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 20 Aug 2023 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/event/Vestenkermis.html</link>
+        <guid isPermaLink="true">http://localhost:4000/event/Vestenkermis.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>VLK</title>
+        <description>&lt;h1 id=&quot;vlaamse-levenstechnische-kring&quot;&gt;Vlaamse Levenstechnische Kring&lt;/h1&gt;
+
+&lt;p&gt;Samen met de studenten van het VLK mochten we hun boerenkot in Gent onveilig maken. Op deze gezellige avond werden er veel meezingers gespeeld. Zo was de ambiance verzekerd!&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 20 Apr 2023 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/event/Studentenvereniging-VLK.html</link>
+        <guid isPermaLink="true">http://localhost:4000/event/Studentenvereniging-VLK.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Galabal Der Wetenschap</title>
+        <description>&lt;h1 id=&quot;galabal-der-wetenschap&quot;&gt;Galabal Der Wetenschap&lt;/h1&gt;
+
+&lt;p&gt;Op vrijdagavond 24 februari mochten we optreden op het Galabal der Wetenschap dat plaatsvond in het Gildenhuis van Sint-Denijs-Westrem. Het was fantastisch om voor de studenten van de verenigingen Geografica, Geologica en GBK op te kunnen treden.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 24 Feb 2023 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/event/Galabal-Der-Wetenschap.html</link>
+        <guid isPermaLink="true">http://localhost:4000/event/Galabal-Der-Wetenschap.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Shine release!</title>
@@ -22,6 +94,19 @@
         <pubDate>Sun, 04 Dec 2022 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/event/Shine.html</link>
         <guid isPermaLink="true">http://localhost:4000/event/Shine.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Druppelkot Chiro Serskamp</title>
+        <description>&lt;h1 id=&quot;beau4-op-druppelkot-2022&quot;&gt;Beau4 op Druppelkot 2022&lt;/h1&gt;
+
+&lt;p&gt;Op zondag 9 oktober speelden we op het druppelkot, een evenement georganiseerd door de Chiro van Serskamp. Als laatste live band van de avond werd de sfeer voor de rest van de avond goed ingezet.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 09 Oct 2022 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/event/chiro-serskamp.html</link>
+        <guid isPermaLink="true">http://localhost:4000/event/chiro-serskamp.html</guid>
         
         
       </item>
@@ -70,103 +155,6 @@ Dit festival vindt plaats aan de Bevegemse Vijvers te Zottegem.&lt;/p&gt;
         <pubDate>Sat, 20 Aug 2022 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/event/Vestenrock-2022.html</link>
         <guid isPermaLink="true">http://localhost:4000/event/Vestenrock-2022.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Impe Lekker 2022</title>
-        <description>&lt;h1 id=&quot;impe-lekker-2022&quot;&gt;Impe Lekker 2022&lt;/h1&gt;
-
-&lt;p&gt;We spelen in Impe Dorp rond 18:00&lt;/p&gt;
-</description>
-        <pubDate>Sat, 04 Jun 2022 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/Impe-Lekker-Dorp.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/Impe-Lekker-Dorp.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Rebels release!</title>
-        <description>&lt;h1 id=&quot;nieuw-eigen-nummer-online-rebels&quot;&gt;Nieuw eigen nummer online: “Rebels”&lt;/h1&gt;
-
-&lt;p&gt;De afgelopen dagen zijn we samen Wout zijn slaapkamer ingedoken voor dit nummer op te nemen. Na een paar dagen opnemen en wat meer dagen Wout het te laten afmixen, kunnen we fier het resultaat presenteren. Hier is Rebels!&lt;/p&gt;
-
-&lt;p&gt;Rebels is te beluisten op &lt;a href=&quot;https://open.spotify.com/track/6BJtHu2OfytdEvfXRvaN0Q?si=W2tXBYl7TdOh4cIbCsNCuw&quot;&gt;Spotify&lt;/a&gt;, &lt;a href=&quot;https://music.apple.com/be/album/rebels/1594260239?i=1594260517&amp;amp;l=nl&quot;&gt;Apple music&lt;/a&gt;, &lt;a href=&quot;https://deezer.page.link/K989HbumnYKVcdrd6&quot;&gt;Deezer&lt;/a&gt; en vele andere muziekplatformen.&lt;/p&gt;
-
-&lt;p&gt;Groetjes van Beau4!&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 14 Nov 2021 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/event/Rebels.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/Rebels.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Kermis Impe 2021</title>
-        <description>&lt;h1 id=&quot;kermis-impe&quot;&gt;Kermis Impe&lt;/h1&gt;
-
-&lt;p&gt;We kijken ernaar uit om op de kermis van Impe (Impedorp, aan het café Buitenbeentje) te spelen.&lt;/p&gt;
-
-&lt;p&gt;We beginnen rond 20u&lt;/p&gt;
-</description>
-        <pubDate>Sat, 09 Oct 2021 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/Kermis-Impe-2021.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/Kermis-Impe-2021.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>JeugdHuis De Muze Zottegem</title>
-        <description>&lt;h1 id=&quot;muze-kickstart-15--1-jaar-jeugdhuis&quot;&gt;Muze Kickstart (15 + 1 jaar Jeugdhuis)&lt;/h1&gt;
-
-&lt;p&gt;Jeughhuis De Muze bestaat 15+1 jaar en wij mogen dat samen met jullie vieren!&lt;/p&gt;
-
-&lt;p&gt;We maken er een spetterend feest van! Alle info vind je op het &lt;a href=&quot;https://www.facebook.com/events/961673584396581&quot;&gt;facebook evenement&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 25 Sep 2021 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/JH-De-Muze-2021.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/JH-De-Muze-2021.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Feest Burgemeester</title>
-        <description>&lt;h1 id=&quot;beau4-5-jaar-live-op-het-feest-van-de-burgemeester&quot;&gt;“Beau4 5 jaar live” op het feest van de Burgemeester&lt;/h1&gt;
-
-&lt;p&gt;‘t Ankerpunt “Here we are again!”&lt;/p&gt;
-
-&lt;p&gt;5 jaar geleden speelden we ons eerste echte live optreden zoals te zien op de foto hierboven. Eens kijken of jullie ons nog herkennen.&lt;/p&gt;
-
-&lt;p&gt;We zien jullie graag terug op dit “Feest van de Burgemeester” in Serskamp (Wichelen).&lt;/p&gt;
-
-&lt;p&gt;Voor meer info zie &lt;a href=&quot;https://www.facebook.com/hetfeestvandeburgemeester/&quot;&gt;Facebook pagina Feest van de Burgemeester&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 12 Sep 2021 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/feest-van-de-burgemeester-2021.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/feest-van-de-burgemeester-2021.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Esveeka</title>
-        <description>&lt;h1 id=&quot;esveeka&quot;&gt;Esveeka&lt;/h1&gt;
-
-&lt;p&gt;We spelen Zondagavond op het feestweekend van Scouts en Gidsen Were Di Serskamp.&lt;/p&gt;
-
-&lt;p&gt;Meer info zie Facebook Event&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/people/Esveeka/100067196238884/&quot;&gt;Facebook Event&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 29 Aug 2021 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/event/Esveeka-2021.html</link>
-        <guid isPermaLink="true">http://localhost:4000/event/Esveeka-2021.html</guid>
         
         
       </item>
