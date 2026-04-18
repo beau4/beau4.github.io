@@ -1,63 +1,143 @@
----
-layout: default
-cover: '/media/Beau4Wall4.jpg'
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Beau4</title>
 
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0f0f0f;
+      color: #ffffff;
+      line-height: 1.6;
+    }
 
-<div class="home">
-    
-    {% capture currentDate %}{{'now' | date: '%Y/%m/%d' }}{% endcapture %}
+    header {
+      padding: 80px 20px;
+      text-align: center;
+      background: #000;
+    }
 
-    <div class="clearfix">
+    header h1 {
+      font-size: 3rem;
+      margin: 0;
+      letter-spacing: 2px;
+    }
 
-      <h1 class="event-time-heading fix-top">Toekomstige {% if site.event_label %} {{site.event_label}} {% else %} Evenementen {% endif %} </h1>
+    header p {
+      opacity: 0.8;
+      margin-top: 10px;
+    }
 
-      {% for post in site.posts reversed %}
+    section {
+      max-width: 900px;
+      margin: auto;
+      padding: 60px 20px;
+    }
 
-        {% capture blogDate %}{{post.date | date: '%Y/%m/%d"' }}{% endcapture %}
+    h2 {
+      margin-bottom: 20px;
+      font-size: 1.8rem;
+    }
 
-        {% if blogDate >= currentDate %}
-      
-          <a href="{{ post.url | prepend: site.baseurl }}">
-            {% if post.cover %}
-            <div class="event-square" style="background-image:url({{post.cover}});">
-            {% else %}
-            <div class="event-square" style="background-image:url(http://evento.io/img/cover.jpg);">
-            {% endif %}
-              <h2>{{ post.title }} <span>{{ post.datum }}</span></h2>
-               <div class='event-square-overlay'></div>
-            </div>
-           
-          </a>
+    .links a {
+      color: #1db954;
+      text-decoration: none;
+      margin: 0 10px;
+      font-weight: bold;
+    }
 
-        {% endif %}
+    .links a:hover {
+      text-decoration: underline;
+    }
 
-      {% endfor %}
-    </div>
-    <div class="clearfix">
+    .card {
+      background: #1a1a1a;
+      padding: 20px;
+      border-radius: 12px;
+    }
 
-      <h1 class="event-time-heading">Voorbije {% if site.event_label %} {{site.event_label}} {% else %} Evenementen {% endif %} </h1>
-      {% for post in site.posts %}
+    iframe {
+      width: 100%;
+      border: none;
+    }
 
-        {% capture blogDate %}{{post.date | date: '%Y/%m/%d' }}{% endcapture %}
+    footer {
+      text-align: center;
+      padding: 40px 20px;
+      opacity: 0.6;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
 
-        {% if blogDate < currentDate %}
+<header>
+  <h1>Beau4</h1>
+  <p>Alternative / Indie band from Belgium</p>
+</header>
 
-          <a href="{{ post.url | prepend: site.baseurl }}">
-            {% if post.cover %}
-            <div class="event-square" style="background-image:url({{post.thumbs}});">
-            {% else %}
-            <div class="event-square" style="background-image:url(http://app-beacon.com/wp-content/uploads/2015/05/events.jpg);">
-            {% endif %}
-              <h2>{{ post.title }} <span>{{ post.datum }}</span></h2>
-              <div class='event-square-overlay'></div>
-            </div>
-            
-          </a>
+<section>
+  <h2>About</h2>
+  <div class="card">
+    <p>
+      Beau4 is a Belgian indie band creating atmospheric and melodic music.
+      Follow us for new releases, live shows, and updates.
+    </p>
+  </div>
+</section>
 
-        {% endif %}
+<section>
+  <h2>Listen</h2>
+  <div class="card">
+    <iframe style="border-radius:12px"
+      src="https://open.spotify.com/embed/artist/4x6XJ9uidnXxyAKXceeI5k"
+      height="380"
+      allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
+    </iframe>
 
-      {% endfor %}
-    </div>
+    <p class="links">
+      <a href="https://open.spotify.com/artist/4x6XJ9uidnXxyAKXceeI5k" target="_blank">Spotify</a>
+      <a href="https://music.apple.com/us/artist/beau4/1594260516" target="_blank">Apple Music</a>
+    </p>
+  </div>
+</section>
 
-</div>
+<section>
+  <h2>Upcoming Shows</h2>
+  <div class="card">
+    <a class="bit-widget-initializer"
+      data-artist-name="Beau4"
+      data-display-local-dates="true"
+      data-display-limit="5">
+    </a>
+  </div>
+</section>
+
+<section>
+  <h2>Instagram</h2>
+  <div class="card">
+    <p>Follow us on Instagram for latest updates.</p>
+    <a href="https://instagram.com" target="_blank" class="links">Instagram</a>
+  </div>
+</section>
+
+<section>
+  <h2>Links</h2>
+  <div class="card links">
+    <a href="https://vi.be/platform/beau4" target="_blank">VI.BE</a>
+    <a href="https://open.spotify.com/artist/4x6XJ9uidnXxyAKXceeI5k" target="_blank">Spotify</a>
+    <a href="https://music.apple.com/us/artist/beau4/1594260516" target="_blank">Apple Music</a>
+  </div>
+</section>
+
+<footer>
+  © Beau4
+</footer>
+
+<script src="https://widget.bandsintown.com/main.min.js"></script>
+
+</body>
+</html>
